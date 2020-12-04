@@ -1,0 +1,10 @@
+Package: BEDMatrixCExt
+Version: 0.0
+Title: Interfacing with BEDMatrix at the C Level
+Description: An example package on how to interface with BEDMatrix at the C
+  level.
+Author: Alexander Grueneberg <cran@agrueneberg.info>
+Maintainer: Alexander Grueneberg <cran@agrueneberg.info>
+License: file LICENSE
+Imports: BEDMatrix
+LinkingTo: BEDMatrix

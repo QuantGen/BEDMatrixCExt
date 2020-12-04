@@ -1,0 +1,5 @@
+import(BEDMatrix)
+export(numSamples)
+export(numVariants)
+export(extractGenotypes)
+useDynLib(BEDMatrixCExt, .registration = TRUE, .fixes = "C_")
